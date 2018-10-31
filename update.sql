@@ -1,0 +1,1 @@
+UPDATE planets SET num_of_moons = 15 WHERE name = "Jupiter";
